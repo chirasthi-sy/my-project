@@ -2,7 +2,8 @@ class Node:
     def __init__(self, value):
         self.left = None
         self.right = None
-        self.key = value
+        self.key = value
+
 
 #defining traverse function
 def traverse(self):
@@ -53,3 +54,6 @@ print(search(s,15))
 
 #searching for 52 in binary search tree
 print(search(s,52))
+
+
+print("New Code added")

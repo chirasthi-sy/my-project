@@ -41,3 +41,5 @@ if total_even > total_odd:
 else:
     print(has_donated_odd, "donations provide the maximum  of %d." %total_odd)
 
+for x in range(0,20):
+    print(x)
